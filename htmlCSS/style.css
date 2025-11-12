@@ -1,0 +1,51 @@
+p {
+    font-size: 16px;
+    color:rgb(0, 0, 0);
+    font-weight: 700;
+   
+}
+
+body {
+    background-color: rgb(134, 255, 82);
+    background-image: url(image/1111.jpg);
+}
+
+h2 {
+    color: blue;
+    font-size: 40px;
+    border: 2px solid;
+}
+
+
+img {
+    width: 400px;
+}
+
+menu {
+    display: flex;
+    list-style: none;
+    
+   
+}
+
+a:hover {
+    background-color: blue;
+    color:aliceblue;
+   
+}
+a:visited {
+    color:blue;
+}
+a {
+     padding: 10px;
+     margin: 10px;
+     text-decoration: none;
+     color: black;
+
+
+     border: 2px solid black;
+
+     border-width: 2px;
+     border-style: solid;
+     border-color: black;
+}
